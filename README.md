@@ -1,4 +1,4 @@
-# :ring: Jewlery - Ecommerce
+# :ring: Jewlery - Ecommerce V2
 
 
 ## TL:DR <sub>| Resumo</sub>
@@ -12,3 +12,4 @@
   <dd>React, Redux, Redux-Thunk, Styled-Components, React-Router-Dom@5, React-Toastfy<br />
 </dl>
 <br/>
+
